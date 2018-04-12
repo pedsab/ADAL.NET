@@ -1,0 +1,10 @@
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\ADAL.NET.exe.config
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\ADAL.NET.exe
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\ADAL.NET.pdb
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\obj\Debug\ADAL.NET.csprojResolveAssemblyReference.cache
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\obj\Debug\ADAL.NET.csproj.CoreCompileInputs.cache
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\obj\Debug\ADAL.NET.exe
+C:\Users\pedros\Desktop\ADAL.NET\ADAL.NET\obj\Debug\ADAL.NET.pdb
